@@ -1,4 +1,5 @@
-### Me presento
+### Me presento![image](https://user-images.githubusercontent.com/117487449/207104139-d6e53d3b-96e0-4525-920d-70db54f55877.png)
+
 
 <!--
 **KarenG2003/KarenG2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
